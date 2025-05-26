@@ -1,5 +1,12 @@
-title: Alberto del Río
-
-
-show_downloads: true
+title: "Alberto del Río Jara"
+description: "Final-year Telecommunication Engineering student. Passionate about AI, embedded systems, and data."
 theme: minimal
+
+# Optional: your GitHub username and repo for links
+github_username: albertodelrio
+repository: albertodelrio/albertodelrio.github.io
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
