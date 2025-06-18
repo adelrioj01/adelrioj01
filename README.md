@@ -18,7 +18,7 @@
 ## 💼 Work Experience
 
 ### 📊 Graduate Assistant – Data Transformation (Finance & Administration)  
-*University of Arkansas – 2024–Present*  
+*University of Arkansas – Aug 2025–Present*  
 Supporting data pipeline improvements and reporting automation within administrative systems.
 
 ---
