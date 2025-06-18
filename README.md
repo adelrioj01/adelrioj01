@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fotoGraduacion.jfif" width="160" style="border-radius: 50%;">
+  <img src="fotoGraduacion.png" width="160" style="border-radius: 50%;">
 </p>
 
 # 👋 Hi, I'm Alberto del Río Jara
