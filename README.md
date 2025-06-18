@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="9763b993-cb89-4597-8e10-68174a0c2d32.png" width="160" style="border-radius: 50%;" alt="Profile photo">
+</p>
+
+
 # 👋 Hi, I'm Alberto del Río Jara
 
 🎓 I'm a graduate assistant and **Master's student in Statistics (Computer Analytics concentration)** at the **University of Arkansas**, currently completing my degree after a background in **Telecommunication Technologies Engineering** from **Universidad Carlos III de Madrid**.
