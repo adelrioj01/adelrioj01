@@ -44,7 +44,7 @@ I’m interested in applying **data analysis, machine learning, and programming*
 
 ### 🧠 Machine Learning Classifier for Fault Diagnosis in Rotary Machines
 *Bachelor’s Thesis (TFG) | Spring 2025*  
-[https://github.com/adelrioj01/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/]
+[github.com/adelrioj01/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines](https://github.com/adelrioj01/ML-Classifier-for-Fault-Diagnosis-in-Rotary-Machines/)
 - Developed an ML-based system for **fault detection and classification** using vibration data.  
 - Implemented and evaluated models including **SVM, Random Forest, and other classifiers**.  
 - Applied feature extraction, cross-validation, and hyperparameter tuning for predictive maintenance.
