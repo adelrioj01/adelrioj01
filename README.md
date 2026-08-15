@@ -20,8 +20,10 @@ I’m interested in applying **data analysis, machine learning, and programming*
 
 - **Programming Languages:** Python, R, C, Java, VHDL, MATLAB  
 - **Data & ML:** Pandas, NumPy, SciPy, scikit-learn, PyTorch, TensorFlow  
-- **Data & BI Tools:** SQL, Power BI, Tableau, Microsoft Fabric, Excel  
-- **Cloud & Platforms:** AWS  
+- **BI & Analytics:** SQL, Power BI, Tableau, Microsoft Fabric, Looker Studio, Excel  
+- **Cloud & Data Platforms:** AWS, Google Cloud (GCP), Cloud Storage, BigQuery  
+- **Data Engineering & Transformation:** Apache Airflow, dbt  
+- **DevOps & Infrastructure:** Terraform, Docker, GitHub Actions  
 - **Embedded & Electronics:** STM32CubeIDE, Silicon Labs IDE, ESP32, AWR, LTSpice, Falstad  
 
 
